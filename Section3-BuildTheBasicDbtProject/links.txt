@@ -1,0 +1,2 @@
+https://docs.getdbt.com/faqs/project/why-version-2
+https://docs.getdbt.com/reference/commands/clean?version=1.12
