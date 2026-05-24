@@ -1,0 +1,9 @@
+https://docs.getdbt.com/reference/resource-configs/severity?version=1.12
+https://docs.getdbt.com/reference/resource-configs/severity?version=1.12
+https://github.com/dbt-labs/dbt-utils
+https://github.com/calogica/dbt-expectations
+https://github.com/dbt-labs/dbt-codegen
+https://docs.getdbt.com/docs/build/data-tests?version=1.12
+https://docs.getdbt.com/best-practices/writing-custom-generic-tests?version=1.12
+https://docs.getdbt.com/best-practices/writing-custom-generic-tests?version=1.12
+https://docs.getdbt.com/reference/resource-properties/freshness?version=1.12
