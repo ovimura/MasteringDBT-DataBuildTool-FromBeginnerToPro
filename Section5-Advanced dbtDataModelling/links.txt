@@ -1,0 +1,8 @@
+https://docs.getdbt.com/reference/dbt-jinja-functions/doc?version=1.12
+https://docs.getdbt.com/docs/build/seeds?version=1.12
+https://docs.getdbt.com/docs/build/snapshots?version=1.12
+https://docs.getdbt.com/docs/build/materializations?version=1.12
+https://docs.getdbt.com/reference/dbt-jinja-functions/this?version=1.12
+https://docs.getdbt.com/docs/build/incremental-models?version=1.12
+https://docs.cloud.google.com/bigquery/docs/partitioned-tables
+https://docs.getdbt.com/docs/mesh/govern/about-model-governance?version=1.12
