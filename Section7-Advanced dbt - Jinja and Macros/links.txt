@@ -1,0 +1,8 @@
+https://docs.getdbt.com/docs/build/jinja-macros?version=1.12
+https://docs.getdbt.com/reference/dbt-jinja-functions-context-variables?version=1.12
+https://docs.getdbt.com/docs/build/hooks-operations?version=1.12
+https://docs.getdbt.com/faqs/jinja/quoting-column-names?version=1.12
+https://docs.getdbt.com/best-practices/dont-nest-your-curlies?version=1.12
+https://docs.getdbt.com/docs/build/hooks-operations?version=1.12#about-hooks
+https://docs.getdbt.com/reference/dbt-jinja-functions/target?version=1.12
+https://docs.getdbt.com/docs/build/custom-schemas?version=1.12
