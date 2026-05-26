@@ -1,0 +1,6 @@
+https://docs.getdbt.com/docs/core/connection-profiles?version=1.12
+https://docs.getdbt.com/reference/node-selection/graph-operators?version=1.12
+https://docs.getdbt.com/reference/resource-configs/tags?version=1.12
+https://docs.getdbt.com/reference/node-selection/test-selection-examples?version=1.12
+https://docs.getdbt.com/reference/commands/build?version=1.12
+https://docs.getdbt.com/reference/commands/cmd-docs?version=1.12
